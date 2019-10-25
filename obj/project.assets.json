@@ -12096,11 +12096,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\leslie.alldridge\\Desktop\\core-api\\CmdApi\\CmdApi.csproj",
+      "projectUniqueName": "C:\\Users\\leslie.alldridge\\Desktop\\core-api\\CmdApi.csproj",
       "projectName": "CmdApi",
-      "projectPath": "C:\\Users\\leslie.alldridge\\Desktop\\core-api\\CmdApi\\CmdApi.csproj",
+      "projectPath": "C:\\Users\\leslie.alldridge\\Desktop\\core-api\\CmdApi.csproj",
       "packagesPath": "C:\\Users\\leslie.alldridge\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\leslie.alldridge\\Desktop\\core-api\\CmdApi\\obj\\",
+      "outputPath": "C:\\Users\\leslie.alldridge\\Desktop\\core-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
