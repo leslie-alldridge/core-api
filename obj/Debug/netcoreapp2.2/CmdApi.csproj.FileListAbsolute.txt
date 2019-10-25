@@ -1,0 +1,14 @@
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.deps.json
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.json
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.runtimeconfig.dev.json
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.dll
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\bin\Debug\netcoreapp2.2\CmdApi.pdb
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csprojAssemblyReference.cache
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.csproj.CoreCompileInputs.cache
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cache
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorAssemblyInfo.cs
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfoInputs.cache
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.AssemblyInfo.cs
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.RazorTargetAssemblyInfo.cache
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.dll
+C:\Users\leslie.alldridge\Desktop\core-api\CmdApi\obj\Debug\netcoreapp2.2\CmdApi.pdb
